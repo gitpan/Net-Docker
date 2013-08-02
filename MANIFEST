@@ -1,0 +1,13 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+README
+carton.lock
+cpanfile
+dist.ini
+lib/Net/Docker.pm
+t/release-pod-syntax.t
+test.pl
