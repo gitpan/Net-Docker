@@ -9,5 +9,5 @@ carton.lock
 cpanfile
 dist.ini
 lib/Net/Docker.pm
+t/docker-api.t
 t/release-pod-syntax.t
-test.pl
