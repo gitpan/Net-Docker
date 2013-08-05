@@ -1,5 +1,9 @@
 Changes for Net-Docker
 
+0.002001  2013-08-05 18:19:47 CEST
+	[Improvement]
+		- Add tests for 'run' methods
+
 0.002000  2013-08-05 18:08:22 CEST
 	[Improvement]
 		- Add dependency for AnyEvent
