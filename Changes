@@ -1,5 +1,9 @@
 Changes for Net-Docker
 
+0.002002  2013-08-05 22:12:43 CEST
+	[Improvement]
+		- First try to write a docker-like command-line client
+
 0.002001  2013-08-05 18:19:47 CEST
 	[Improvement]
 		- Add tests for 'run' methods

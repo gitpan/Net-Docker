@@ -31,4 +31,4 @@ resources:
   bugtracker: https://github.com/pstuifzand/docker-perl/issues
   homepage: https://github.com/pstuifzand/docker-perl
   repository: https://github.com/pstuifzand/docker-perl.git
-version: 0.002001
+version: 0.002002

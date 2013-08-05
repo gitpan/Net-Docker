@@ -5,10 +5,10 @@ MANIFEST
 META.json
 META.yml
 README
-carton.lock
 cpanfile
 dist.ini
 lib/Net/Docker.pm
+script/docker.pl
 t/docker-api.t
 t/docker-start.t
 t/release-pod-syntax.t
