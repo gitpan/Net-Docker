@@ -1,5 +1,12 @@
 Changes for Net-Docker
 
+0.002000  2013-08-05 18:08:22 CEST
+	[Improvement]
+		- Add dependency for AnyEvent
+		- Add dependency for AnyEvent-HTTP
+		- Add start method
+		- Add streaming_logs method
+
 0.001001  2013-08-02 22:21:34 CEST
 	[Improvement]
 		- add `pull` method
