@@ -4,7 +4,7 @@ author:
   - 'Peter Stuifzand <peter@stuifzand.eu>'
 build_requires: {}
 configure_requires:
-  Module::Build::Tiny: 0.030
+  Module::Build::Tiny: 0.036
 dynamic_config: 0
 generated_by: 'Dist::Milla version v1.0.3, Dist::Zilla version 4.300035, CPAN::Meta::Converter version 2.120921'
 license: perl
@@ -32,6 +32,8 @@ resources:
   bugtracker: https://github.com/pstuifzand/docker-perl/issues
   homepage: https://github.com/pstuifzand/docker-perl
   repository: https://github.com/pstuifzand/docker-perl.git
-version: 0.002004
+version: 0.002005
 x_contributors:
+  - 'Peter Stuifzand <peter.stuifzand@gmail.com>'
   - 'chenryn <rao.chenlin@gmail.com>'
+  - 'moltar <moltar@moltar.net>'
